@@ -9,3 +9,11 @@
 4. Create a program that receives two numbers (start and end), and displays only the even numbers. Use a function for this.
 
 5. Read the gender of a person (M, F) and print a message informing whether "It's a man" or "It's a woman". If the user does not wish to inform, a third option should be made available.
+
+#### Scripts
+
+1. [Script - Calculator](./TS/gasoralcohol.ts)
+2. [Script - Sum of Positive Numbers](./TS/positivenumbers.ts)
+3. [Script - Count of Numbers](./TS/startandfinish.ts)
+4. [Script - Even Numbers](./TS/evennumbers)
+5. [Script - Sex](./TS/sex.ts)
